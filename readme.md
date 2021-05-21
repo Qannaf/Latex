@@ -8,8 +8,6 @@ English ·
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg)
 
-**Acknowledgement:** _Everything written below is from my own experience in college and after reading various materials. I am neither a professional nor expert, but a student who has great passion for the language. Anyone can open a discussion in the issue section, or a pull request in case something should be modified or added. If you consider my work valuable, a [donation](#donation) is much appreciated._
-
 ### Table of Contents
 
 - [What is LaTeX?](#what-is-latex)
@@ -469,5 +467,4 @@ Now the main file looks different, but better documented. Here is the result in 
 
 :tada: Thank you for finishing the guide. That's basically all you need to know about LaTeX. :hammer:  
 If you are greatly interested, more on LaTeX can be found [here](http://www.latex-project.org/help/documentation/) or all over the web, depending on your need.
-
 
