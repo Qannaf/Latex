@@ -8,7 +8,6 @@ Français ·
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg)
 
-**Note:** *Tout ce qui est écrit dans ce guide vient de ma propre expérience et des articles que j'ai lu. Je ne suis pas un professionnel ou expert, mais un étudiant qui apprécie beaucoup ce langage. N'importe qui peut ouvrir une discussion dans la section "issue", ou faire une "pull request". Si vous appréciez mon travail, vous pouvez me faire une [donation](#donation).*
 
 ### Sommaire
 * [Qu'est ce que LaTeX?](#qu-est-ce-que-latex)
