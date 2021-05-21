@@ -460,18 +460,3 @@ Le fichier principal est différent, mais mieux organisé. Voici le résultat av
 :tada: Merci d'avoir terminé ce guide. Voici plus ou moins tout ce que vous devez connaître à propos de LaTeX. :hammer:  
 Si vous êtes vraiment intéressé, vous trouverez plus de LaTeX [ici](http://www.latex-project.org/help/documentation/) ou tout simplement sur le web.
 
-## Licence
-
-[![](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)](http://www.wtfpl.net/)
-
-**DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE**
-Copyright (C) 2016 Luong Vo
-Tout le monde est autorisé à copier et distribuer des copies originelles ou modifiées de ce document, et le changement est autorisé tant que le nom est modifié.   
-TERMES ET CONDITIONS DE COPIE, DE DISTRIBUTION ET DE MODIFICATION : juste DO WHAT THE FUCK YOU WANT (FAITES CE QUE VOUS VOULEZ)
-
-
-<div id='donation'/>  
-
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5ZG5Z47L2ZGYC)
-
-Une bière dans votre pays équivaut à un repas dans le mien.
