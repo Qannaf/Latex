@@ -1,7 +1,6 @@
 English ·
 [Français](./Translation-French.md) ·
 
-
 ---
 
 # Begin LaTeX in minutes
